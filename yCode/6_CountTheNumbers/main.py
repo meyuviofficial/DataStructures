@@ -1,4 +1,4 @@
- #Function to count the frequency of all elements from 1 to N in the array.
+ # Function to count the frequency of all elements from 1 to N in the array.
  def frequencyCount(self, arr, N, P):
       # code here
 
@@ -20,9 +20,9 @@
         # print(arr)
 
 
-#{
+# {
 #  Driver Code Starts
-#Initial Template for Python 3
+# Initial Template for Python 3
 
 import math
 if __name__ == "__main__":
